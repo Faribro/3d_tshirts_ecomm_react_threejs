@@ -1,9 +1,9 @@
 const config = {
   development: {
-    backendUrl: "https://devswag.onrender.com/api/v1/dalle",
+    backendUrl: "https://project-threejs-xte8.onrender.com/",
   },
   production: {
-    backendUrl: "https://devswag.onrender.com/api/v1/dalle",
+    backendUrl: "https://project-threejs-xte8.onrender.com/",
   },
 };
 
